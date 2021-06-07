@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2671072b_f5e75880",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 6
+      },
+      "writtenOn": "2021-06-07T07:23:49Z",
+      "side": 1,
+      "message": "Seems that it has issues with flashing, other than that all good, working on that",
+      "revId": "5789a1137aaec3efa569a591d36043a777eea185",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
